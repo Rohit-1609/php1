@@ -1,0 +1,3 @@
+Deny For All
+php_value upload_max_filesize 2M
+php_flag display_startip_errors off
